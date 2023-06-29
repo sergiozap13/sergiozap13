@@ -10,7 +10,9 @@ Soy Sergio Zapata, tengo 22 años y estoy en el 4º año de Ingeniería Informá
 
 Siempre con ganas de aprender nuevas tecnologías y buscando nuevos proyectos que desarrollar.
 
+Contacto: 
 
+¡Gracias por visitar mi perfil de GitHub!
 
 <!--
 **sergiozap13/sergiozap13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
