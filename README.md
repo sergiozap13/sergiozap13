@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sergio Zapata - Software Developer | Computer Engineering Student
 
 My name is Sergio Zapata, I'm 22 years old, and I'm in my fourth year of Computer Engineering at the University of Granada. At the same time, I'm working as a software developer at Ibermática, S.A.
 
