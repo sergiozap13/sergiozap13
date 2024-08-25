@@ -10,7 +10,7 @@ Thank you for visiting my GitHub profile!
 
 -------------------------------------------------------------------------------------------
 
-Soy Sergio Zapata, tengo 22 años y estoy en el 4º año de Ingeniería Informática en la Universidad de Granada. A la vez, estoy trabajando como desarrollador de software en Ibermática, S.A. 
+Soy Sergio Zapata, tengo 22 años y soy ingenierio informático. A la vez, estoy trabajando como desarrollador de software en Ibermática, S.A. 
 
 Siempre con ganas de aprender nuevas tecnologías y buscando nuevos proyectos que desarrollar.
 
